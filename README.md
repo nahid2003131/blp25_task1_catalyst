@@ -1,4 +1,4 @@
-# BLP-2025 Task 1 [Hugging Face](https://huggingface.co/xlm-roberta-large) — Catalyst
+# [BLP-2025 Task 1](https://github.com/AridHasan/blp25_task1) — Catalyst
 ### Transformer Ensembles and Multi-task Learning Approaches for Bangla Hate Speech Detection
 
 This repository contains Colab-ready notebooks, model configurations, and analysis scripts for the system **“Catalyst at BLP-2025 Task 1: Transformer Ensembles and Multi-task Learning Approaches for Bangla Hate Speech Detection”**, accepted to the **Second International Workshop on Bangla Language Processing (BLP-2025)[Hugging Face](https://huggingface.co/xlm-roberta-large)**.
